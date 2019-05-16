@@ -1,4 +1,11 @@
 {
-    "title":"幸福",
-    "time":2012
+    "posts": [
+        {
+        "id": 1,
+        "title": "hello"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }     
 }
