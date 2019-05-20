@@ -177,32 +177,32 @@
             "msrc": "https://via.placeholder.com/150/92c952",
             "alt": "pic",
             "title": "pic",
-            "w": 600,
-            "h": 400
+            "w": 150,
+            "h": 150
         },
         {
             "src": "https://via.placeholder.com/600/771796",
             "msrc": "https://via.placeholder.com/150/771796",
             "alt": "pic",
             "title": "pic",
-            "w": 600,
-            "h": 400
+            "w": 150,
+            "h": 150
         },
         {
             "src": "https://via.placeholder.com/600/24f355",
             "msrc": "https://via.placeholder.com/150/24f355",
             "alt": "pic",
             "title": "pic",
-            "w": 600,
-            "h": 400
+            "w": 150,
+            "h": 150
         },
         {
             "src": "https://via.placeholder.com/600/d32776",
             "msrc": "https://via.placeholder.com/150/d32776",
             "alt": "pic",
             "title": "pic",
-            "w": 600,
-            "h": 400
+            "w": 150,
+            "h": 150
         }
     ]   
 }
