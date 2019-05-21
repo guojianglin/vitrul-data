@@ -204,5 +204,67 @@
             "w": 600,
             "h": 400
         }
+    ],
+    "goodslist":[
+        {
+            "id":1,
+            "title":"1【KPL官方比赛用机】vivo iQOO 8GB+128GB 武士黑 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+            "add_time":"2019-05-20T03:23:28.000Z",
+            "abstract":"这是一个很随意起的摘要，不要在意那么多的细节",
+            "img_url":"http://img11.360buyimg.com/mobilecms/s316x316_jfs/t1/38769/11/2224/318485/5cbfcfaaEfe8197e5/f67f128aef875b28.jpg!q70.dpg.webp",
+            "sell_price":1999,
+            "market_price":2199,
+            "stock_quantity":60
+        },
+        {
+            "id":2,
+            "title":"2【KPL官方比赛用机】vivo iQOO 8GB+128GB 武士黑 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+            "add_time":"2019-05-20T03:23:28.000Z",
+            "abstract":"这是一个很随意起的摘要，不要在意那么多的细节",
+            "img_url":"http://img11.360buyimg.com/mobilecms/s316x316_jfs/t22330/332/515182850/188708/3dbe80f8/5b0fbaabN3229c7a3.jpg!q70.dpg.webp",
+            "sell_price":2999,
+            "market_price":3199,
+            "stock_quantity":655
+        },
+        {
+            "id":3,
+            "title":"3【KPL官方比赛用机】vivo iQOO 8GB+128GB 武士黑 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+            "add_time":"2019-05-20T03:23:28.000Z",
+            "abstract":"这是一个很随意起的摘要，不要在意那么多的细节",
+            "img_url":"http://img14.360buyimg.com/mobilecms/s316x316_jfs/t1/22718/1/12601/168068/5caedd41E05e879b0/865565d919219154.jpg!q70.dpg.webp",
+            "sell_price":2199,
+            "market_price":2399,
+            "stock_quantity":110
+        },
+        {
+            "id":4,
+            "title":"4【KPL官方比赛用机】vivo iQOO 8GB+128GB 武士黑 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+            "add_time":"2019-05-20T03:23:28.000Z",
+            "abstract":"这是一个很随意起的摘要，不要在意那么多的细节",
+            "img_url":"http://img14.360buyimg.com/mobilecms/s316x316_jfs/t1/22718/1/12601/168068/5caedd41E05e879b0/865565d919219154.jpg!q70.dpg.webp",
+            "sell_price":2599,
+            "market_price":2799,
+            "stock_quantity":210
+        },
+        {
+            "id":5,
+            "title":"5【KPL官方比赛用机】vivo iQOO 8GB+128GB 武士黑 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+            "add_time":"2019-05-20T03:23:28.000Z",
+            "abstract":"这是一个很随意起的摘要，不要在意那么多的细节",
+            "img_url":"http://img10.360buyimg.com/mobilecms/s316x316_jfs/t29275/364/946849922/204818/30bc4f77/5c024b96Nc624d11d.jpg!q70.dpg.webp",
+            "sell_price":1599,
+            "market_price":1799,
+            "stock_quantity":220
+        },
+        {
+            "id":6,
+            "title":"6【KPL官方比赛用机】vivo iQOO 8GB+128GB 武士黑 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+            "add_time":"2019-05-20T03:23:28.000Z",
+            "abstract":"这是一个很随意起的摘要，不要在意那么多的细节",
+            "img_url":"http://img11.360buyimg.com/mobilecms/s316x316_jfs/t1/38769/11/2224/318485/5cbfcfaaEfe8197e5/f67f128aef875b28.jpg!q70.dpg.webp",
+            "sell_price":2399,
+            "market_price":2599,
+            "stock_quantity":80
+        }
     ]   
 }
